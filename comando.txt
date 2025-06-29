@@ -1,1 +1,1 @@
-tirar_foto
+obter_localizacao
